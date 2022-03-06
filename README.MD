@@ -1,6 +1,8 @@
 # Catwiki server
 
-Servidor del proyecto Catwiki, el proyecto esta construido con Node.js + TypeScript
+Servidor del proyecto Catwiki, el proyecto esta construido con Node.js + TypeScript.
+
+Puedes acceder al repositorio del Frontend 👉 [Catwiki Front-end](https://github.com/thewuiz/catwiki-frontend)
 
 ## Comenzando 🚀
 
