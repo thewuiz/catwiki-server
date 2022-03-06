@@ -6,13 +6,13 @@ Servidor del proyecto Catwiki, el proyecto esta construido con Node.js + TypeScr
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
-Es necesario tener una api key, como se muestra en example.env, para obtenerla visita [TheCatApi](https://docs.thecatapi.com/) y sigue las instrucciones para obtener tu api key.
-
-Configura tus variables de entorno como se muestra en el archivo example.env del proyecto
-
 ## Pre-requisitos 📋
 
 Ejecutar `$ npm Install` para instalar las dependencias de necesarias para correr el proyecto.
+
+Es necesario tener una api key, como se muestra en example.env, para obtenerla visita [TheCatApi](https://docs.thecatapi.com/) y sigue las instrucciones para obtener tu api key.
+
+Configura tus variables de entorno como se muestra en el archivo example.env del proyecto
 
 ## Despliegue 📦
 
